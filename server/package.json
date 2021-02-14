@@ -1,0 +1,12 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "A React Weather App",
+  "main": "index.js",
+  "scripts": {
+    "dev": "main",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julien_Paris",
+  "license": "ISC"
+}
